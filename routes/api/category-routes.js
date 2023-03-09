@@ -72,3 +72,7 @@ router.delete('/:id', async (req, res) => {
 });
 
 module.exports = router;
+
+// {
+//   "category_name": "E-Sports"
+// } 
